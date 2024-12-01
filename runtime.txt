@@ -1,0 +1,11 @@
+python-3.9
+intro_latex.ipynb
+rudd_intro.ipynb
+rudd_chapter01_examples.ipynb
+rudd_3-1_notebook.ipynb
+rudd_4-1_notebook.ipynb
+rudd_6-2_notebook.ipynb
+rudd_5-3*5-5_journal.ipynb
+avocado.csv
+rudd-chapter8notebook.ipynb
+rudd_chapter10assignment.ipynb
